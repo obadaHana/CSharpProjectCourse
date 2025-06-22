@@ -1,0 +1,16 @@
+C:\Users\Obada\source\repos\Super Calculator\bin\Debug\net9.0-windows\Super Calculator.exe
+C:\Users\Obada\source\repos\Super Calculator\bin\Debug\net9.0-windows\Super Calculator.deps.json
+C:\Users\Obada\source\repos\Super Calculator\bin\Debug\net9.0-windows\Super Calculator.runtimeconfig.json
+C:\Users\Obada\source\repos\Super Calculator\bin\Debug\net9.0-windows\Super Calculator.dll
+C:\Users\Obada\source\repos\Super Calculator\bin\Debug\net9.0-windows\Super Calculator.pdb
+C:\Users\Obada\source\repos\Super Calculator\obj\Debug\net9.0-windows\Super Calculator.csproj.GenerateResource.cache
+C:\Users\Obada\source\repos\Super Calculator\obj\Debug\net9.0-windows\Super Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Obada\source\repos\Super Calculator\obj\Debug\net9.0-windows\Super Calculator.AssemblyInfoInputs.cache
+C:\Users\Obada\source\repos\Super Calculator\obj\Debug\net9.0-windows\Super Calculator.AssemblyInfo.cs
+C:\Users\Obada\source\repos\Super Calculator\obj\Debug\net9.0-windows\Super Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Obada\source\repos\Super Calculator\obj\Debug\net9.0-windows\Super Calculator.dll
+C:\Users\Obada\source\repos\Super Calculator\obj\Debug\net9.0-windows\refint\Super Calculator.dll
+C:\Users\Obada\source\repos\Super Calculator\obj\Debug\net9.0-windows\Super Calculator.pdb
+C:\Users\Obada\source\repos\Super Calculator\obj\Debug\net9.0-windows\Super Calculator.genruntimeconfig.cache
+C:\Users\Obada\source\repos\Super Calculator\obj\Debug\net9.0-windows\ref\Super Calculator.dll
+C:\Users\Obada\source\repos\Super Calculator\obj\Debug\net9.0-windows\Super_Calculator.Person.resources
