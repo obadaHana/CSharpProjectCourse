@@ -1,2 +1,2 @@
 # CSharpProjectCourse
- Assigments for Malmö University's C# Course
+ Assigments for Malmö University's C# Course.
